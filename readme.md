@@ -8,7 +8,7 @@
   <h3 align="center">PHP CRUD OPERATIONS</h3>
 
   <p align="center">
-    I did a UDEMY course to start using PHP language with MySQL and PHPAdmin, the idea was practicing the following concepts: Interact with Mysql database the Concept of CRUD actions how to send and retrieve data Build any kinds of app that interact with database.
+    I did an UDEMY course to start using PHP language with MySQL and PHPAdmin, the idea was practicing the following concepts: Interact with Mysql database the Concept of CRUD actions how to send and retrieve data Build any kinds of app that interact with database.
     <br />
     <a href="https://github.com/franciscofunes/php-crud-todo"><strong>Explore the docs »</strong></a>
     <br />
@@ -57,7 +57,7 @@
      alt="work screenshot" /> <br/>
 
 
-**I did a UDEMY course to start using PHP language with MySQL and PHPAdmin, the idea was practicing the following concepts: Interact with Mysql database the Concept of CRUD actions how to send and retrieve data Build any kinds of app that interact with database.**
+**I did an UDEMY course to start using PHP language with MySQL and PHPAdmin, the idea was practicing the following concepts: Interact with Mysql database the Concept of CRUD actions how to send and retrieve data Build any kinds of app that interact with database.**
 
 
 ### Built With
