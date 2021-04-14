@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/franciscofunes/php-crud-todo">
-    <img src="https://i.imgur.com/e0KpRYE.png" alt="Logo" width="520" height="520">
+    <img src="https://i.imgur.com/e0KpRYE.png" alt="Logo" width="260" height="260">
   </a>
 
   <h3 align="center">PHP CRUD OPERATIONS</h3>
