@@ -13,7 +13,7 @@
     <a href="https://github.com/franciscofunes/php-crud-todo"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://equaldev.netlify.app/en/">View Demo</a>
+    <a href="https://tareasporhacer.herokuapp.com/">View Demo</a>
     ·
     <a href="https://github.com/franciscofunes/equaldevweb/issues">Report Bug</a>
     ·
