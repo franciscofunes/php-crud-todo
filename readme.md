@@ -64,10 +64,12 @@
 
 * [Bootstrap](https://getbootstrap.com)
 * [JQuery](https://jquery.com)
-* [PHPMyAdming](https://yiotis.net/filterizr/#/)
-* [MySQL](https://yiotis.net/filterizr/#/)
-* [Popper](https://yiotis.net/filterizr/#/)
-* [PHP](https://yiotis.net/filterizr/#/)
+* [PHPMyAdmin](https://www.phpmyadmin.net/)
+* [MySQL](https://www.mysql.com/)
+* [Popper](https://popper.js.org/)
+* [PHP](https://www.php.net/manual/es/intro-whatis.php)
+* [HEROKU](https://www.heroku.com)
+* [RemoteMySQL](https://https://remotemysql.com/)
 
 
 <!-- CONTRIBUTING -->
@@ -92,4 +94,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Francisco Funes - [Web](https://franciscofunes.netlify.com/)
 
-Project Link: [DEMO](https://equaldev.netlify.app/en/)
+Project Link: [DEMO](https://tareasporhacer.herokuapp.com/)
